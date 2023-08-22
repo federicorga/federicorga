@@ -32,6 +32,6 @@
 <br />
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FedericoGarea&theme=prussian&border_radius=5&locale=es)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=federicorga&theme=prussian&border_radius=5&locale=es)](https://git.io/streak-stats) 
 
 </div>
