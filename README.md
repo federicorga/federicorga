@@ -1,8 +1,11 @@
 <h1 align="center">¡Hola! 👋 Soy Federico Garea.</h1>
 
 
-<h3 align="center">FrontEnd Developer </h3>
+<h3 align="center">
+<img src="https://github.com/federicorga/federicorga/blob/main/funeteimg.gif" title="HTML5" alt="HTML" >
+</h3>
 <img align="right" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="40%" height="40%"/>
+
 
 - 📚 Actualmente estudiando BackEnd con Node.js y C#
 
