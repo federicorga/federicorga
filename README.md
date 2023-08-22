@@ -1,16 +1,19 @@
-### Hi there 👋
+¡Hola! 👋 Soy Federico Garea.
+FrontEnd Developer y Constante Aprendiz
 
-<!--
-**federicorga/federicorga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📚 Actualmente estudiando BackEnd con Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Ampliando mis conocimientos en React.js.
+
+💬 Pregúntame sobre HTML5, CSS, Bootstrap 5, SASS, JavaScript, React.js, Git y Github.
+
+🔍 Soy una persona autodidacta, siempre buscando ampliar mis conocimientos.
+
+📫 Podes enviarme un correo a leandroa.fernandez@gmail.com
+
+LinkedIn Logo Contactame en Leandro Fernández
+
+
+Lenguajes y herramientas
+HTML CSS Bootstrap SASS JavaScript JQuery React.js PHP MYSQL Git
